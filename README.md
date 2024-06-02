@@ -1,1 +1,12 @@
-# SQL-BASE
+# *SQL-BASE*
+
+ ![GitHub last commit](https://img.shields.io/github/last-commit/ichanguk/SQL-BASE?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/ichanguk/SQL-BASE?color=orange&logo=java&style=flat-square)
+
+
+- 카카오테크 캠퍼스 SQL 기초 학습을 위한 저장소 입니다.
+
+## *practice*
+
+||||
+|---|---|---|
+|[테이블을 만들고 데이터 넣어보기](https://github.com/ichanguk/SQL-BASE/blob/main/practice/practice1.sql)|[테이블 변경하고 지워보기](https://github.com/ichanguk/SQL-BASE/blob/main/practice/practice2.sql)||

@@ -10,3 +10,4 @@
 1. [테이블을 만들고 데이터 넣어보기](https://github.com/ichanguk/SQL-BASE/blob/main/practice/practice1.sql)
 2. [테이블 변경하고 지워보기](https://github.com/ichanguk/SQL-BASE/blob/main/practice/practice2.sql)
 3. [테이블에서 데이터 가져와보기](https://github.com/ichanguk/SQL-BASE/blob/main/practice/practice3.sql)
+4. [주어진 조건에 맞는 데이터를 가져와보기](https://github.com/ichanguk/SQL-BASE/blob/main/practice/practice4.sql)

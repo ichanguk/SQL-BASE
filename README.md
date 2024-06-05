@@ -14,3 +14,5 @@
 5. [데이터를 요청대로 만들어보기](https://github.com/ichanguk/SQL-BASE/blob/main/practice/practice5.sql)
 6. [다양한 함수를 사용해보기](https://github.com/ichanguk/SQL-BASE/blob/main/practice/practice6.sql)
 7. [데이터를 그룹화해서 통계를 내보기](https://github.com/ichanguk/SQL-BASE/blob/main/practice/practice7.sql)
+8. [함수를 만들고 사용해보기](https://github.com/ichanguk/SQL-BASE/blob/main/practice/practice8.sql)
+9. [조건문을 만들어 보기](https://github.com/ichanguk/SQL-BASE/blob/main/practice/practice9.sql)

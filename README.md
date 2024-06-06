@@ -18,3 +18,5 @@
 9. [조건문을 만들어 보기](https://github.com/ichanguk/SQL-BASE/blob/main/practice/practice9.sql)
 10. [다양한 방식으로 테이블을 합쳐보기](https://github.com/ichanguk/SQL-BASE/blob/main/practice/practice10.sql)
 11. [테이블을 합쳐 원하는 값을 가져오기](https://github.com/ichanguk/SQL-BASE/blob/main/practice/practice11.sql)
+12. [여러 테이블의 데이터를 한 번에 조회해보기](https://github.com/ichanguk/SQL-BASE/blob/main/practice/practice12.sql)
+13. [여러 테이블을 다뤄서 원하는 값을 가져와보기](https://github.com/ichanguk/SQL-BASE/blob/main/practice/practice13.sql)

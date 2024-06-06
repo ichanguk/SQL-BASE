@@ -20,3 +20,4 @@
 11. [테이블을 합쳐 원하는 값을 가져오기](https://github.com/ichanguk/SQL-BASE/blob/main/practice/practice11.sql)
 12. [여러 테이블의 데이터를 한 번에 조회해보기](https://github.com/ichanguk/SQL-BASE/blob/main/practice/practice12.sql)
 13. [여러 테이블을 다뤄서 원하는 값을 가져와보기](https://github.com/ichanguk/SQL-BASE/blob/main/practice/practice13.sql)
+14. [서브쿼리로 복잡한 조건을 하나의 쿼리로 만들어 보기](https://github.com/ichanguk/SQL-BASE/blob/main/practice/practice14.sql)

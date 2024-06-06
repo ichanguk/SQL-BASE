@@ -16,3 +16,5 @@
 7. [데이터를 그룹화해서 통계를 내보기](https://github.com/ichanguk/SQL-BASE/blob/main/practice/practice7.sql)
 8. [함수를 만들고 사용해보기](https://github.com/ichanguk/SQL-BASE/blob/main/practice/practice8.sql)
 9. [조건문을 만들어 보기](https://github.com/ichanguk/SQL-BASE/blob/main/practice/practice9.sql)
+10. [다양한 방식으로 테이블을 합쳐보기](https://github.com/ichanguk/SQL-BASE/blob/main/practice/practice10.sql)
+11. [테이블을 합쳐 원하는 값을 가져오기](https://github.com/ichanguk/SQL-BASE/blob/main/practice/practice11.sql)
